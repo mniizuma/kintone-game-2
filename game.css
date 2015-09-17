@@ -1,0 +1,5 @@
+#game{
+    width: 800px;  /* enchant.jsのGameオブジェクトの作成時に設定したゲーム画面サイズ */
+    margin:0 auto 0 auto;  /* HTMLで設定したdiv#gameをセンタリング */
+    border: 1px solid #000000;  /* ゲーム画面を囲う線（任意） */
+}
